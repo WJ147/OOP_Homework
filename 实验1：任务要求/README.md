@@ -54,4 +54,6 @@
 
 ## 三、实验报告
 
-请按照提供的实验报告模板撰写实验报告， 流程图或矢量图可以采用[visio](https://www.google.com/search?q=Microsoft%20Office%20%E4%B8%93%E4%B8%9A%E5%A2%9E%E5%BC%BA%E7%89%88%202016%20&ie=UTF-8)绘制，代码可以采用开源软件 [highlight](http://www.andre-simon.de/) 将.c或.cpp文件转换成.rtf高亮可移植代码形式。
+请务必按照`课程实验报告模板`撰写实验报告，报告内如涉及流程图或矢量图绘制，建议采用微软的[visio](https://www.google.com/search?q=Microsoft%20Office%20%E4%B8%93%E4%B8%9A%E5%A2%9E%E5%BC%BA%E7%89%88%202016%20&ie=UTF-8)绘制，报告内容若需粘贴代码，请采用开源软件 [highlight](http://www.andre-simon.de/) 将.c或.cpp文件转换成.rtf高亮可移植代码，然后粘贴得到word报告模板内。
+
+请将实验报告最终版提交到`云班课` https://www.mosoteach.cn/web/index.php?c=passport&m=index
