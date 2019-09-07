@@ -29,6 +29,8 @@
 
 ```
 
+程序设计框架参考：https://github.com/tsingke/OOP_Lab/blob/master/chapt_1_ScoreSystem/README.md
+
 
 
 ## 二、实验说明
