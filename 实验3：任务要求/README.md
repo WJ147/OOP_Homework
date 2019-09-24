@@ -15,7 +15,8 @@
  
 *  掌握Highlight代码高亮软件的使用
 
-*  掌握visual studio 基本调试方法
+*  掌握visual studio 代码调试方法
+
 
 
 ## 二、实验任务
