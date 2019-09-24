@@ -31,4 +31,4 @@
   
   报告统一提交到[云班课](https://www.mosoteach.cn/web/index.php?c=passport&m=index)（提交pdf版本）
   
-  截止时间： 本章授课结束时
+  截止时间： 第二章 授课结束时
