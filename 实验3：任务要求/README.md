@@ -23,7 +23,7 @@
 
   结合教材第2章所有案例代码（[点击查看](https://github.com/tsingke/OOP_Book)），分析解答各案例程序后面的 `思考与练习` 题目，
   
-  给出必要的visual studio执行结果，并解释原因。
+  给出必要的Visual Studio程序执行结果，并解释问题原因。
 
 ## 三、实验报告
 
